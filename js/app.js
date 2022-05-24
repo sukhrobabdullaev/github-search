@@ -7,7 +7,7 @@ const main = document.getElementById("result");
 const getUser = async (username) => {
     const res = await fetch(API_URL + username);
     const resData = await res.json();
-    console.log(resData)
+    // console.log(resData)
     createUser(resData)
 }
 getUser("sukhrobabdullaev")

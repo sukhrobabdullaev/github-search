@@ -102,10 +102,9 @@ input:focus{
     align-items: center;
 }
 .user-links li svg{
-    margin-right: 10px;
+    margin-right: 9px;
 }
 
 .login-link {
-    text-decoration: none;
-    
+    text-decoration: none;   
 }
