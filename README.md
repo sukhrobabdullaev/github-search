@@ -9,10 +9,3 @@ You can use your username by default because it serves to change UI which is sui
 🔺 Some styles in CARDS
 🔺 Watch Out:  Only some details were viewed but als You can get more details of data in API.
 
-
-
- 
-# github-search
-# github-search
-# github-search
-# github-search
